@@ -1,0 +1,13 @@
+dimension,outcome,test,statistic,p_value
+Call-Centres City,CSAT across groups,one-way ANOVA,0.8977113326498234,0.4414270102692436
+Call-Centres City,within_sla,chi-square,2.907971435846989,0.4060328889795696
+Call-Centres City,negative,chi-square,2.1295564609992192,0.5459564712634206
+Call-Centres City,csat_recorded,chi-square,1.9449251959742708,0.583916003780921
+Channel,CSAT across groups,one-way ANOVA,2.572691704657629,0.052261536716940823
+Channel,within_sla,chi-square,2.9246845944165614,0.4033836907833771
+Channel,negative,chi-square,2.6062525474762044,0.4563944488213044
+Channel,csat_recorded,chi-square,3.1984529477160892,0.3620279912939948
+Reason,CSAT across groups,one-way ANOVA,1.3916281640456474,0.248709351409295
+Reason,within_sla,chi-square,0.2287490225523569,0.8919238577823284
+Reason,negative,chi-square,1.0276312288647764,0.5982086849423491
+Reason,csat_recorded,chi-square,0.2165752596896341,0.8973694490713922

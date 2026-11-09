@@ -1,0 +1,15 @@
+# Credentials and local environments
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.idea/
+.pytest_cache/
+# Interaction-level data includes customer names; do not publish
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+# Power BI temporary files
+*.pbit.tmp
