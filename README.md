@@ -2,9 +2,8 @@
 
 **Python · PostgreSQL · Power BI · Statistical Analysis**
 
-An end-to-end customer-service analytics portfolio project examining **32,941 interactions** recorded during **October 2020** across **four call centres** and **four communication channels**. The workflow cleans and validates data in Python, calculates KPIs and statistical comparisons, loads data into PostgreSQL, and provides a reporting layer for Power BI.
+An end-to-end customer-service analytics portfolio project examining **32,941 interactions** recorded during **October 2020** across **four call centres** and **four communication channels**. 
 
-> **Project status:** Python EDA and statistical analysis scripts and outputs are included; PostgreSQL import and the Power BI dashboard must be executed and verified in your own environment. No completed `.pbix` file is included.
 
 ## Executive summary
 
